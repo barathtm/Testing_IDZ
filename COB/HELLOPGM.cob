@@ -4,5 +4,5 @@
        DATA DIVISION.                                                   00040001
        PROCEDURE DIVISION.                                              00060001
            DISPLAY 'HELLO WORLD'.                                       00070001
-           DISPLAY 'THIS IS POPUP'.
+           DISPLAY 'THIS IS a POPUP'.
            STOP RUN.                                                    00080001
