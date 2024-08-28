@@ -14,8 +14,8 @@
       * COBOL DECLARATION FOR TABLE IBMUSER.STUD_STUDENT               *00140000
       ******************************************************************00150000
        01  DCLSTUD-STUDENT.                                             00160000
-           10 STUD-ID              PIC S9(9) USAGE COMP.                00170000
-           10 STUD-NAME            PIC X(15).                           00180000
+         **  10 STUD-ID              PIC S9(9) USAGE COMP.                00170000
+         **  10 STUD-NAME            PIC X(15).                           00180000
            10 STUD-DEPT            PIC X(5).                            00190000
       ******************************************************************00200000
       * THE NUMBER OF COLUMNS DESCRIBED BY THIS DECLARATION IS 3       *00210000
